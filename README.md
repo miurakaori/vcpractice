@@ -1,1 +1,3 @@
 # vcpractice
+
+include<stdio.h>
